@@ -1,7 +1,7 @@
 ## Olá, sou Richard Henrique 👋
 
 ### Meus Contatos: <br>
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](richardhs826@gmail.com)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:richardhs826@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/richardhs__?igsh=NnQzNTR0a203cjVj)
 
 ![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=iroh337&show_icons=true&theme=radical)
